@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin
+Disallow: /admin/login
+
+Allow: /
+
+Host: https://yourdomain.com
+
+Sitemap: https://yourdomain.com/sitemap.xml
